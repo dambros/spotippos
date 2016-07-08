@@ -15,7 +15,7 @@
 	</parent>
 
 	<properties>
-		<java.version>1.7</java.version>
+		<java.version>1.8</java.version>
 		<model-mapper.version>0.7.5</model-mapper.version>
 		<apache-commons.version>3.4</apache-commons.version>
 		<json-object.version>20160212</json-object.version>

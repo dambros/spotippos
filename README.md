@@ -19,6 +19,7 @@ $ git clone git@github.com:dambros/spotippos.git
 
 2- Execute 
 ```
+$ cd spotippos
 $ mvn spring-boot:run
 ```
 
